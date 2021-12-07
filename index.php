@@ -4,12 +4,8 @@
         <title></title>
     </head>
     <body>
-        <?php
-        
-        // request - faz uma solicitação ao servidor
-        // response - reposta entre cliente e servidor
-        
-            echo "Meu primeiro código PHP - Acessando o Git!<p><strong>Hello Word!</strong>";
+        <?php        
+            echo "Meu primeiro código PHP - Acessando o Git!";
         ?>
     </body>
 </html>
