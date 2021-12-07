@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Meu primeiro arqquivo</title>
+        <title>Meu primeiro arquivo</title>
     </head>
     <body>
         <?php        
