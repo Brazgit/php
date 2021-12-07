@@ -6,7 +6,6 @@
     <body>
         <?php        
             echo "Meu primeiro código PHP - Acessando o Git!";
-            echo "Teste de confrito!"
         ?>
     </body>
 </html>
